@@ -39,4 +39,7 @@ nav li a {
 
 main {
     clear: left;
+    background-color: #fff;
+    padding: 2%;
+    font-size: 1.25em;
 }
